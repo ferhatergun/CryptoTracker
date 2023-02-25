@@ -1,0 +1,20 @@
+.App
+{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 60px;
+  align-items: center;
+}
+td
+{
+  padding: 5px;
+
+}
+img
+{
+  width: 20px;
+ position: relative;
+ top:4px;
+ margin-right: 3px;
+}
