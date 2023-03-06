@@ -3,7 +3,7 @@
 
 
 https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false <br />
-sitedeki veriler yukarıdaki apiden çekilmiştir haftalık olarak güncelleniyor
+sitedeki veriler yukarıdaki apiden çekilmiştir birkaç günde bir güncelleniyor
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
